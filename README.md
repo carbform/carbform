@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarat Chandra</h1>
 <h3 align="center">Researcher from IISc working on Indian Monsoon and Catchment Hydrology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carbform&label=Profile%20views&color=0e75b6&style=flat" alt="carbform" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carbform" alt="carbform" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [carbform.github.io](carbform.github.io)
 
