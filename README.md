@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sarat Chandra</h1>
-<h3 align="center"></h3>
 
-<p align="center">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31109.123456789!2d77.567890!3d12.987654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1670c1234567%3A0xabcdef1234567890!2sIndian%20Institute%20of%20Science%2C%20Bangalore!5e0!3m2!1sen!2sin!4v1611234567890!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-</p>
+
 <h3 align="center">Currently working on Indian Monsoon Droughts and Groundwater Hydrology</h3>
 
+<h3 align="center">Indian Institute of Science, Bengaluru, India <img src="https://img.icons8.com/ios-filled/50/000000/marker.png" alt="location" width="20" height="20"/></h3>
 
 <p align="center">
     <a href="https://github.com/carbform" target="_blank">
