@@ -1,15 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sarat Chandra</h1>
-<h3 align="center">Researcher from IISc working on Indian Monsoon and Catchment Hydrology</h3>
-
-
-<p align="center">
-  <a href="https://github.com/carbform" target="_blank">
-    <img src="https://img.shields.io/github/followers/carbform?label=Follow&style=social" alt="GitHub Followers"/>
-  </a>
-  <a href="https://twitter.com/https://x.com/csarat" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/https://x.com/csarat?label=Follow&style=social" alt="Twitter Follow"/>
-  </a>
-</p>
 
 - 👨‍💻 All of my projects are available at www.carbform.github.io
 
@@ -25,7 +14,7 @@
     </a>
 </p>
 
-- 👨‍💻 All of my projects are available at www.carbform.github.io
+- 👨‍💻 Website [www.carbform.github.io] (www.carbform.github.io)
 
 - Climate Data Processing : [Climate Data Plotting](https://github.com/carbform/Climate_Data_Plotting)
 - 📫 Reach me at **csarat48@gmail.com**
