@@ -12,13 +12,18 @@
     </a>
 </p>
 
-- 👨‍💻 Website : www.carbform.github.io
+- 👨‍💻 Website : [www.carbform.github.io](https://carbform.github.io)
 
 - Climate Data Processing : [Climate Data Plotting](https://github.com/carbform/Climate_Data_Plotting)
 - 📫 Reach me at **csarat48@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</a>
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/>
+</a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
