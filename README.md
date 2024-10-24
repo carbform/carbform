@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </a>
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.spreadshirt.com.au/shop/design/latex+logo+mens+t-shirt-D5aa2f4be5d52cd4afaa1d102?sellable=bB2bEbwYl0H743lMrB2b-210-7" alt="latex" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
+    <img src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T210A196PA4301PT17X41Y60D1015477848W24847H9191Cx000000/views/1,width=120,height=120,appearanceId=196,backgroundColor=D41C28,noPt=true/latex-logo-mens-t-shirt.jpg" alt="latex" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
 </a>
 </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
