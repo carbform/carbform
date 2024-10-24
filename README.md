@@ -9,8 +9,8 @@
     <a href="https://github.com/carbform" target="_blank">
         <img src="https://img.shields.io/github/followers/carbform?label=Follow&style=social" alt="GitHub Followers"/>
     </a>
-    <a href="https://twitter.com/https://x.com/csarat" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/https://x.com/csarat?label=Follow&style=social" alt="Twitter Follow"/>
+    <a href="https://twitter.com/csarat" target="_blank">
+        <img src="https://img.shields.io/twitter/follow/csarat?label=Follow&style=social" alt="Twitter Follow"/>
     </a>
 </p>
 
