@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarat Chandra</h1>
 
-- 👨‍💻 All of my projects are available at www.carbform.github.io
-
 <h3 align="center">Researcher from IISc working on Indian Monsoon and Groundwater Hydrology</h3>
 
 
