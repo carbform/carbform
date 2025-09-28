@@ -2,9 +2,10 @@
 
 # Hi there, I'm Sarat
 
-### Scientist / Engineer - SC, National Remote Sensing Centre , ISRO || PhD Candidate, IISc Bangalore
+### Scientist / Engineer - SC, National Remote Sensing Centre, ISRO 
+PhD Candidate, Indian Institute of Science (IISc) Bangalore
 
-*Exploring the intersection of Geospatial Data for Water & Climate Applications*
+*Exploring Geospatial Data for Water & Climate Applications*
 
 ---
 
@@ -14,10 +15,10 @@
 
 </div>
 
-## 🎯 Current Focus
-- **Indian Monsoon Droughts** & **Groundwater Hydrology** research
-- Weather satellite data analysis and climate modeling
-- Geospatial solutions for water resource management
+## Currently working on
+- **Indian Monsoon Droughts** & **Hydrology Impacts**
+- Satellite data analysis for climate variability
+- Geospatial data analysis for water resource management
 
 ## 🛠️ Tech Stack
 
@@ -32,12 +33,12 @@
 </div>
 
 ## 📊 Featured Projects
-- **[CarbSat](https://github.com/carbform/carbsat)** - Satellite data processing and analysis toolkit
-- **[Climate Data Plotting](https://github.com/carbform/Climate_Data_Plotting)** - Advanced visualization tools for climate data analysis
+- **[CarbSat](https://github.com/carbform/carbsat)** - Satellite Tracking and pass prediction webapp (beta)
+- **[Climate Data Plotting](https://github.com/carbform/Climate_Data_Plotting)** -  Python notebooks for climate data analysis
 
 
 ## 📬 Connect
 - 🌐 **Website**: [carbform.github.io](https://carbform.github.io)
 - 📧 **Email**: csarat48@gmail.com
-- 🐦 **Twitter**: [@csarat](https://twitter.com/csarat)
+- 🐦 **Twitter(X)**: [@csarat](https://twitter.com/csarat)
 
