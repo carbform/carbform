@@ -2,7 +2,7 @@
 
 # Hi there, I'm Sarat
 
-<!-- This is a single-line comment. -->### Scientist / Engineer - SC, National Remote Sensing Centre, ISRO 
+<!-- This is a single-line comment. ### Scientist / Engineer - SC, National Remote Sensing Centre, ISRO  -->
 PhD Candidate, Indian Institute of Science (IISc) Bangalore
 
 *Exploring Geospatial Data for Water & Climate Applications*
