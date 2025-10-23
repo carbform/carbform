@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Sarat
+# Sarat Chandra
 
-<!-- This is a single-line comment. ### Scientist / Engineer - SC, National Remote Sensing Centre, ISRO  -->
+Scientist / Engineer - SC, National Remote Sensing Centre, ISRO
 PhD Candidate, Indian Institute of Science (IISc) Bangalore
 
 *Exploring Geospatial Data for Water & Climate Applications*
