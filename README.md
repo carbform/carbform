@@ -2,7 +2,7 @@
 
 # Sarat Chandra
 
-Scientist / Engineer - SC, National Remote Sensing Centre, ISRO
+Scientist / Engineer - SC, National Remote Sensing Centre, ISRO \
 PhD Candidate, Indian Institute of Science (IISc) Bangalore
 
 *Exploring Geospatial Data for Water & Climate Applications*
