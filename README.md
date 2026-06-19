@@ -1,44 +1,65 @@
+<!-- ============================================================
+     SARAT CHANDRA — GitHub Profile README
+     Neo-brutal / minimalist
+     ============================================================ -->
+
 <div align="center">
 
-# Sarat Chandra
+```
+╔══════════════════════════════════════════════════════╗
+║  Sarat Chandra                                       ║
+║  Scientist / Engineer @ NRSC (ISRO)                  ║
+║  IISc Bangalore (PhD Ongoing)                        ║
+║  Water · Climate · Geospatial                        ║
+╚══════════════════════════════════════════════════════╝
+```
 
-Scientist / Engineer - SC, National Remote Sensing Centre, ISRO \
-PhD Candidate, Indian Institute of Science (IISc) Bangalore
-
-*Exploring Geospatial Data for Water & Climate Applications*
+</div>
 
 ---
 
-[![GitHub followers](https://img.shields.io/github/followers/carbform?style=flat-square&logo=github)](https://github.com/carbform)
-[![Twitter Follow](https://img.shields.io/twitter/follow/csarat?style=flat-square&logo=twitter)](https://twitter.com/csarat)
-[![Website](https://img.shields.io/badge/Website-carbform.github.io-blue?style=flat-square&logo=google-chrome)](https://carbform.github.io)
+## `> RESEARCH`
 
-</div>
+```
+Indian Monsoon                   ████████████  active
+Climate Variability              ████████░░░░  active
+Geospatial Data Applications     ██████░░░░░░  active
+Water Resource Management        ██████░░░░░░  active
+```
 
-## Currently working on
-- **Indian Monsoon Droughts** & **Hydrology Impacts**
-- Satellite data analysis for climate variability
-- Geospatial data analysis for water resource management
+---
 
-## 🛠️ Tech Stack
+## `> SKILLS`
+
+```
+LANG     Python · MATLAB · Bash
+ML       Deep Learning · Machine Learning
+GEO      Remote Sensing · GIS ·
+SYS      Linux · HPC · Git
+```
+
+---
+
+## `> PROJECTS`
+
+| repo | what |
+|------|------|
+| **[HydroSwift](https://github.com/carbform/HydroSwift)** | automates retrieval, processing & visualisation of hydrological observations from [India-WRIS](https://indiawris.gov.in/) and [CWC Flood Forecasting](https://ffs.india-water.gov.in/) — discharge, water level, rainfall, sediment, groundwater & more |
+| **[carbsat](https://github.com/carbform/carbsat)** | satellite pass prediction & tracking webapp |
+| **[Climate_Data_Plotting](https://github.com/carbform/Climate_Data_Plotting)** | Python notebooks for climate data analysis |
+
+---
+
+## `> CONTACT`
+
+
+WEB    [carbform.github.io](https://www.carbfrom.giithub.io)
+MAIL   csarat48@gmail.com
+X      [@csarat](https://twitter.com/csarat)
+
+
+---
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
+<sub>NRSC · ISRO · IISc Bangalore</sub>
 </div>
-
-## 📊 Featured Projects
-- **[CarbSat](https://github.com/carbform/carbsat)** - Satellite Tracking and pass prediction webapp (beta)
-- **[Climate Data Plotting](https://github.com/carbform/Climate_Data_Plotting)** -  Python notebooks for climate data analysis
-
-
-## 📬 Connect
-- 🌐 **Website**: [carbform.github.io](https://carbform.github.io)
-- 📧 **Email**: csarat48@gmail.com
-- 🐦 **Twitter(X)**: [@csarat](https://twitter.com/csarat)
-
